@@ -1,5 +1,6 @@
-## 통역사 Jin 선생님과 함께 하는 영어 공부
+## Interpreter Jin's Page
 
+통역사 
 You can use the [editor on GitHub](https://github.com/InterpreterJin/InterpreterJin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
